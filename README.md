@@ -30,7 +30,7 @@ This project demonstrates an end-to-end ETL (Extract, Transform, Load) process a
 
 ## Files and Directory Structure
 - `netflix_dataset.csv`: The original dataset obtained from Kaggle.
-- `etl_analysis.ipynb`: Jupyter Notebook containing the ETL process and data analysis using pandas.
+- `Netflix_ETL.py`: Jupyter Notebook containing the ETL process and data analysis using pandas.
 - `analysis_results.csv`: CSV file containing the results of the analysis.
 - `netflix_dashboard.pdf`: Pdf file exported from AWS QuickSight, showcasing the dashboard visualization.
 - `README.md`: This file, providing an overview of the project.
