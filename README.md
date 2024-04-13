@@ -29,10 +29,10 @@ This project demonstrates an end-to-end ETL (Extract, Transform, Load) process a
    - Using the data stored in S3, a dashboard is created in AWS QuickSight to visualize the insights derived from the analysis.
 
 ## Files and Directory Structure
-- `netflix_dataset.csv`: The original dataset obtained from Kaggle.
+- `Netflix_dataset.csv`: The original dataset obtained from Kaggle.
 - `Netflix_ETL.py`: Jupyter Notebook containing the ETL process and data analysis using pandas.
-- `analysis_results.csv`: CSV file containing the results of the analysis.
-- `netflix_dashboard.pdf`: Pdf file exported from AWS QuickSight, showcasing the dashboard visualization.
+- `Netflix_analysis.csv`: CSV file containing the results of the analysis.
+- `Netflix_dashboard.pdf`: Pdf file exported from AWS QuickSight, showcasing the dashboard visualization.
 - `README.md`: This file, providing an overview of the project.
 
 ## Dashboard Visualization
