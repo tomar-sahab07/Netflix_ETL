@@ -1,6 +1,6 @@
 # End-to-End ETL Project with Visualization
 
-![ETL Architecture Diagram]("C:\Users\tomar\OneDrive\Pictures\Screenshots\netflix_etl_architecture.png")
+![ETL Architecture Diagram]("Netflix_etl_diag.png")
 
 ## Introduction
 This project demonstrates an end-to-end ETL (Extract, Transform, Load) process along with visualization using AWS QuickSight. The project involves extracting data from a Netflix dataset obtained from Kaggle, performing transformations on the data using pandas in Jupyter Notebook, and then analyzing the data to derive insights. Finally, the processed data is loaded into Amazon S3, and a dashboard is created in AWS QuickSight for visualization.
